@@ -13,6 +13,7 @@ drive-app/
 └── routes/
     ├── user.routes.js    # User-related routes
     └── index.route.js    # General routes (e.g., home)
+    
 ## **1. How It Works (Big Picture)**  
 You built a **login/register system** where:  
  Users can **sign up** (email, username, password).  
