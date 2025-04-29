@@ -4,7 +4,7 @@ Hey Future Me!
 This is a **simple breakdown** of your **Express.js + MongoDB** authentication app.  
 
 ---
-drive-app/
+notes-app/
 ├── app.js                # Main application entry
 ├── config/
 │   └── db.js             # Database connection
