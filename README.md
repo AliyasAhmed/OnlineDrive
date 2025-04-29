@@ -1,10 +1,10 @@
-# **Notes App Explanation (For Future You)**  
+# **Drive App Explanation (For Future You)**  
 
 Hey Future Me!   
 This is a **simple breakdown** of your **Express.js + MongoDB** authentication app.  
 
 ---
-notes-app/
+Drive-app/
 ├── app.js                # Main application entry
 ├── config/
 │   └── db.js             # Database connection
