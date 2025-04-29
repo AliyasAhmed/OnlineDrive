@@ -4,7 +4,7 @@ Hey Future Me!
 This is a **simple breakdown** of your **Express.js + MongoDB** authentication app.  
 
 ---
-Drive-app/
+drive-app/
 ├── app.js                # Main application entry
 ├── config/
 │   └── db.js             # Database connection
@@ -13,7 +13,6 @@ Drive-app/
 └── routes/
     ├── user.routes.js    # User-related routes
     └── index.route.js    # General routes (e.g., home)
-
 ## **1. How It Works (Big Picture)**  
 You built a **login/register system** where:  
  Users can **sign up** (email, username, password).  
